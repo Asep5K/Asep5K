@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Learning the basics of programming and building small beginner-friendly projects.<br><br>👯 I’m looking to collaborate on:<br>Simple open-source projects or small tasks for practice.<br><br>🤝 I’m looking for help with:<br>Understanding algorithms, Git/GitHub usage, and clean coding practices.<br><br>🌱 I’m currently learning:<br>Python and Bash scripting.<br><br>💬 Ask me about:<br>Basic things about coding and the tools I’m currently learning.<br><br>>⚡ Fun fact:<br>I can code better when it’s raining or while listening to chill lo-fi music. 😄
+🔭 I’m currently working on:<br>Learning the basics of programming and building small beginner-friendly projects.<br><br>👯 I’m looking to collaborate on:<br>Simple open-source projects or small tasks for practice.<br><br>🤝 I’m looking for help with:<br>Understanding algorithms, Git/GitHub usage, and clean coding practices.<br><br>🌱 I’m currently learning:<br>Python and Bash scripting.<br><br>💬 Ask me about:<br>Basic things about coding and the tools I’m currently learning.<br><br>⚡ Fun fact:<br>I can code better when it’s raining or while listening to chill lo-fi music. 😄
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rz)
