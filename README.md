@@ -6,6 +6,7 @@
 - **Not a programmer or developer**
 - **Also trying to learn coding (emphasis on "trying")**
 - **Simple is better**
+- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Asep5K)
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reza.cpp) 
